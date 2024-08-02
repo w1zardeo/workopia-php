@@ -1,0 +1,16 @@
+{
+    "name": "w1zardeo/workopia-php",
+    "description": "Job listing application",
+    "authors": [
+        {
+            "name": "Andrii Plodnik",
+            "email": "w1zardeot@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
